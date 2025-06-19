@@ -36,6 +36,7 @@ Overall, the main best times to post based on 2025 trends are:
 -	For **Product Promotion content**: Thursdays at 12 p.m. and 5 p.m.
 -	For **Educational content**: Tuesdays at 8 a.m., Wednesdays at 5 p.m., and Sundays at 7 p.m.
 -	For **Customer Story content**: Fridays at 8 a.m., Sundays between 9 and 10 a.m., Tuesdays to Fridays at 4 p.m., and Saturdays at 3 p.m.
+1[](https://github.com/kimberlyolivos/Social-Media-Post-Performance-2024-25/blob/main/data_viz/product_promotion_posting_times.png)
   
 ## Top Regions by Engagement
 In 2024, the USA led with 17.29 million engagements. But from January 1st to May 1st of 2025, **Japan is leadin in engagement levels with 7.04 million engagements**. During this period, the **USA dropped six positions**, now generating only about half the engagement Japan is getting.
@@ -45,9 +46,13 @@ For the **Japanese audience**:
 -	In **2024**, the best times were Mondays at 9 a.m. and Fridays at 3 p.m. and 5 p.m.
 -	In **2025**, better results come from posting on Fridays at 8 a.m., Saturdays at 4 p.m., and Thursdays at 5 p.m.
   
+![](https://github.com/kimberlyolivos/Social-Media-Post-Performance-2024-25/blob/main/data_viz/japan_2025_posting_times.png)
+
 To reach the **USA audience**:
 -	In **2024**, peak times were Mondays and Fridays at 5 p.m.
 -	In **2025**, engagement is highest when posting on Thursdays at 10 a.m., Tuesdays at 2 p.m., Fridays at 3 p.m., and Mondays at 4 p.m.
+  
+![](https://github.com/kimberlyolivos/Social-Media-Post-Performance-2024-25/blob/main/data_viz/usa_2025_posting_times.png)
 
 ## Recommendations
 Some recommendations that would be introduced to the marketing team are the following:
