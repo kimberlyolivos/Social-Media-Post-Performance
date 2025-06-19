@@ -3,7 +3,7 @@
 ## Project Background
 The collected data centered around different posts made in Facebook, Instagram, LinkedIn, YouTube, X and TikTok from January 1st 2024 to May 1st 2025. The goal for this project is to analyze what kind of content is succesful on different platforms and explain regional trends in engagement to inform better content and platform strategy decisions.
 
-An interactive Power BI dashboard can be downloaded [here.com?].
+An interactive Power BI dashboard can be downloaded [here]().
 The R script utilized to review the null values and find missing patterns can be found [here](Preparing_Data.R).
 
 # Insights deep dive
@@ -23,6 +23,9 @@ In early **2025**,
 -	**Customer Story** live streams still have a higher CTR than videos.
 -	For **Educational content**, live streams are ahead in CTR, but videos bring in more interactions overall.
 -	In **Product Promotion**, videos clearly lead in average CTR for both 2024 and 2025
+
+![](data_viz/customer_story_breakdown.png)
+![](data_viz/educational_breakdown.png)
 
 ## Hashtags that reach higher level of impressions
 Since the beginning of 2024, the hashtags that have constantly driven the highest reach are:
