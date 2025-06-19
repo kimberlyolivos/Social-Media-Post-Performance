@@ -1,4 +1,4 @@
-# TikTok posts performance from January 2024 and May 2025 
+# TikTok posts performance from January 2024 to May 2025 
 
 ## Project Background
 The collected data centered around different posts made in Facebook, Instagram, LinkedIn, YouTube, X and TikTok from January 1st 2024 to May 1st 2025. The goal for this project is to analyze what kind of content is succesful on different platforms and explain regional trends in engagement to inform better content and platform strategy decisions.
