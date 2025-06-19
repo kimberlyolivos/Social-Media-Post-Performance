@@ -47,7 +47,7 @@ In 2024, the USA led with 17.29 million engagements. But from January 1st to May
 ## Best Posting Times for Japan and the USA
 For the **Japanese audience**:
 -	In **2024**, the best times were Mondays at 9 a.m. and Fridays at 3 p.m. and 5 p.m.
--	In **2025**, better results come from posting on Fridays at 8 a.m., Saturdays at 4 p.m., and Thursdays at 5 p.m.
+-	In **2025**, better results come from posting on Fridays at 8 a.m., Saturdays at 8 a.m. and 4 p.m., and Thursdays at 5 p.m.
   
 ![](https://github.com/kimberlyolivos/Social-Media-Post-Performance-2024-25/blob/main/data_viz/japan_2025_posting_times.png)
 
