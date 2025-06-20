@@ -1,4 +1,5 @@
 # TikTok posts performance from January 2024 to May 2025 
+The following analysis is based on thekp     
 
 ## Project Background
 The collected data centered around different posts made in Facebook, Instagram, LinkedIn, YouTube, X and TikTok from January 1st 2024 to May 1st 2025. The goal for this project is to analyze what kind of content is succesful on different platforms and explain regional trends in engagement to inform better content and platform strategy decisions.
@@ -18,10 +19,10 @@ An important fact to highlight is the **user preference for organic content**. S
 
 In regards to content format, during 2024, videos and live streams showed a **similar average engagement rate across the categories of Customer Story** (19–20%), Educational (20%), and Product Promotion (11–12%). In 2025, this similarity has maintained for **Customer Story and Product Promotion**, but for Educational content, **videos have shown a 2% increase in their average engagement rate**.
 
-Across the three categories, videos were posted more often than live streams. However, in 2024, live streams performed better in terms of CTR for both Customer Story and Educational content, with an average of 1.75%, and they usually got more likes, shares, comments, and views. 
+Across the three categories, videos were posted more often than live streams. However, in 2024, live streams performed better in terms of CTR for Customer Story content with an average of 1.75%, and they usually got more likes, shares, comments, and views. Educational content received a higher CTR, 1.77%.
 
 In early **2025**, 
--	**Customer Story** live streams still have a higher CTR than videos.
+-	**Customer Story** videos have a higher CTR than live streams in contrast to 2024.
 -	For **Educational content**, live streams are ahead in CTR, but videos bring in more interactions overall.
 -	In **Product Promotion**, videos clearly lead in average CTR for both 2024 and 2025
 
