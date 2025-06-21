@@ -11,7 +11,7 @@ The R script utilized to review the null values and find missing patterns can be
 # Insights deep dive
 
 ## Content categories and format performance
-Over 2024 and the beginning of 2025 (from January 1st until May 1st) the content categories that have driven the **highest level of engagement** are **educational and product promotion**, reaching a total of around 40 million engagements. 
+Over 2024 and the beginning of 2025 (from January 1st until May 1st) the content categories that have driven the **highest level of engagement** are **educational and product promotion**, reaching a total of around 40 million engagements in 2024. 
 
 Although **Customer Story** content didn’t reach a high total engagement, possibly due to the limited number of posts made, it does have the **highest average engagement rate** (between 20 and 21%) among all categories for both years. Educational content also is the second content category with one of the highest average engagement rate. On the other hand, the average engagement rate for product promotion content is one of the lowest, at 12%.
 
