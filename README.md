@@ -1,5 +1,5 @@
 # TikTok posts performance from January 2024 to May 2025 
-The following analysis is based on thekp     
+Although the report includes data from various social media platforms, TikTok was one of the two platforms provides complete information on the CTR for all its posts.
 
 ## Project Background
 The collected data centered around different posts made in Facebook, Instagram, LinkedIn, YouTube, X and TikTok from January 1st 2024 to May 1st 2025. The goal for this project is to analyze what kind of content is succesful on different platforms and explain regional trends in engagement to inform better content and platform strategy decisions.
