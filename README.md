@@ -24,7 +24,7 @@ Across the three categories, videos were posted more than live streams. In 2024,
 In early **2025**, 
 -	**Customer Story** videos have a higher CTR (1.89%) than live streams in contrast to 2024 (1.75%).
 -	For **Educational content**, live streams are ahead in CTR, but videos still continue to bring in more interactions overall.
--	In **Product Promotion**, videos clearly lead in average CTR for both 2024 (1.76%) and 2025 (1.74%).
+-	In **Product Promotion**, videos clearly lead in average CTR for both 2024 (1.76%) and 2025 (1.74%), but there aren't as many videos posted as for the other two categories.
 
 ![](data_viz/customer_story_breakdown.png)
 ![](data_viz/educational_breakdown.png)
@@ -40,27 +40,27 @@ Since the beginning of 2024, the hashtags that have constantly driven the highes
 Overall, the main best times to post based on 2025 trends are:
 -	For **Product Promotion content**: Thursdays at 12 p.m. and 5 p.m.
 -	For **Educational content**: Tuesdays at 8 a.m., Wednesdays at 5 p.m., and Sundays at 7 p.m.
--	For **Customer Story content**: Fridays at 8 a.m., Sundays between 9 and 10 a.m., Tuesdays to Fridays at 4 p.m., and Saturdays at 3 p.m.
+-	For **Customer Story content**: Tuesdays to Fridays between 4 and 5 p.m., Wednesdays at 12 p.m., Fridays at 8 a.m., Saturdays at 3 p.m., Sundays between 9 and 10 a.m.
 1[](https://github.com/kimberlyolivos/Social-Media-Post-Performance-2024-25/blob/main/data_viz/product_promotion_posting_times.png)
   
 ## Top Regions by Engagement
-In 2024, the USA led with 17.29 million engagements. But from January 1st to May 1st of 2025, **Japan is leadin in engagement levels with 7.04 million engagements**. During this period, the **USA dropped six positions**, now generating only about half the engagement Japan is getting.
+In 2024, the USA led with 17 million engagements. But from January 1st to May 1st of 2025, **Japan is leadin in engagement levels with 7 million engagements**. During this period, the **USA dropped six positions**, now generating only about half the engagement Japan is getting.
 
 ## Best Posting Times for Japan and the USA
 For the **Japanese audience**:
--	In **2024**, the best times were Mondays at 9 a.m. and Fridays at 3 p.m. and 5 p.m.
--	In **2025**, better results come from posting on Fridays at 8 a.m., Saturdays at 8 a.m. and 4 p.m., and Thursdays at 5 p.m.
+-	In **2024**, the best times were on Saturdays at 8 a.m. and 1 p.m.  
+-	In **2025**, better results come from posting on Thursdays at 5 p.m., Fridays at 8 a.m., and Saturdays at 8 a.m. and 4 p.m.
   
 ![](https://github.com/kimberlyolivos/Social-Media-Post-Performance-2024-25/blob/main/data_viz/japan_2025_posting_times.png)
 
 To reach the **USA audience**:
--	In **2024**, peak times were Mondays and Fridays at 5 p.m.
--	In **2025**, engagement is highest when posting on Thursdays at 10 a.m., Tuesdays at 2 p.m., Fridays at 3 p.m., and Mondays at 4 p.m.
+-	In **2024**, peak times were Mondays at 9 a.m. and Fridays at 5 p.m.
+-	In **2025**, engagement is highest when posting on Mondays at 4 p.m., Tuesdays at 2 p.m., Thursdays at 10 a.m., and Fridays at 3 p.m.
   
 ![](https://github.com/kimberlyolivos/Social-Media-Post-Performance-2024-25/blob/main/data_viz/usa_2025_posting_times.png)
 
 ## Recommendations
 Some recommendations that would be introduced to the marketing team are the following:
--	Increase the production of Customer Story content in video format in 2025, since they have the highest engagement rate as well as a high average CTR.
+-	Increase the production of Customer Story content in video format in 2025, since they have the highest engagement rate as well as a high average CTR. 
 -	Implement strategies to re-engage the U.S. audience by adjusting posting schedules and content formats to align with their current content preferences and behavior patterns.
 
