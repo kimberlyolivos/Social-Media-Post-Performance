@@ -2,7 +2,7 @@
 Although the report includes data from various social media platforms, TikTok was one of the only two platforms that provide complete information on the CTR for all posts.
 
 ## Project Background
-The collected data centered around different posts made in Facebook, Instagram, LinkedIn, YouTube, X and TikTok from January 1st 2024 to May 1st 2025. The goal for this project is to analyze what kind of content is succesful on different platforms and explain regional trends in engagement to inform better content and platform strategy decisions.
+The collected data centered around different posts made in Facebook, Instagram, LinkedIn, YouTube, X and TikTok from January 1st 2024 to May 1st 2025 for an IT company actively running content campaigns across multiple social media platforms. The goal for this project is to analyze what kind of content is succesful on different platforms and explain regional trends in engagement to inform better content and platform strategy decisions.
 
 An interactive Power BI dashboard can be downloaded [here](Social_Media_Post_Performance_2024_2025.pbix).
 
