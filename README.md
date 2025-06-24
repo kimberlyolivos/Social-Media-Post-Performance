@@ -4,7 +4,7 @@ Although the report includes data from various social media platforms, TikTok wa
 ## Project Background
 The collected data centered around different posts made in Facebook, Instagram, LinkedIn, YouTube, X and TikTok from January 1st 2024 to May 1st 2025. The goal for this project is to analyze what kind of content is succesful on different platforms and explain regional trends in engagement to inform better content and platform strategy decisions.
 
-An interactive Power BI dashboard can be downloaded [here]().
+An interactive Power BI dashboard can be downloaded [here](Social_Media_Post_Performance_2024_2025.pbix).
 
 The R script utilized to review the null values and find missing patterns can be found [here](Preparing_Data.R).
 
